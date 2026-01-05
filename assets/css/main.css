@@ -1,0 +1,14 @@
+.layout {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  min-height: 100vh;
+}
+
+.sidebar {
+  background: linear-gradient(180deg, #6fa3d8, #c6def1);
+  padding: 24px;
+}
+
+.content {
+  padding: 32px;
+}
